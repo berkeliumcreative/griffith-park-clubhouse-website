@@ -1,47 +1,108 @@
 {
-  "businessName": "Sample Business",
-  "tagline": "Quality Service You Can Trust",
+  "businessName": "Griffith Park Clubhouse",
+  "tagline": "Casual Dining at Griffith Park",
   "hero": {
-    "heading": "Welcome to Our Business",
-    "subheading": "Professional service in your area.",
-    "ctaText": "Contact Us",
-    "ctaLink": "#contact"
+    "heading": "Eat, Drink & Enjoy the View",
+    "subheading": "Casual dining in the heart of Griffith Park — burgers, sandwiches, cold drinks, and one of the best patios in LA. 80 five-star reviews.",
+    "ctaText": "Call Ahead",
+    "ctaLink": "tel:3236617212",
+    "backgroundImage": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoMG93uvWHL4I9nQkZt06bi1v4ST80gEu5BiPfYCMR4huaDdyJN8rLTYEiVQOvSiyl92M0e5MoMm6IXg7tpwdRlb25fEFJ_TgA88h-OJIJ7-cq6YADzijIWUNvM80Qq_IPLCI9DoA=w408-h307-k-no"
   },
   "about": {
-    "heading": "About Us",
+    "heading": "Your Griffith Park Hangout",
     "paragraphs": [
-      "We are a local business dedicated to providing quality service.",
-      "Our team has years of experience and we take pride in our work."
+      "Griffith Park Clubhouse is the perfect pit stop before or after a hike, a round of golf, or a day exploring the park. We serve classic American fare — burgers, hot dogs, sandwiches, and cold beverages — in a relaxed, outdoor-friendly setting.",
+      "With 80 reviews and a 4.4-star rating, locals and visitors alike love our casual vibe, friendly staff, and unbeatable location inside one of LA's most iconic parks.",
+      "Open 7 AM to 5 PM, seven days a week. Come for the food, stay for the view."
     ]
   },
   "services": [
-    { "title": "Service One", "description": "Professional service with attention to detail.", "icon": "star" },
-    { "title": "Service Two", "description": "Quality work at competitive prices.", "icon": "award" },
-    { "title": "Service Three", "description": "Fast, reliable, and thorough.", "icon": "check" }
-  ],
-  "contact": {
-    "address": "123 Main St, City, ST 12345",
-    "phone": "(555) 123-4567",
-    "email": "info@sample.com",
-    "hours": {
-      "Monday": "9:00 AM - 5:00 PM",
-      "Tuesday": "9:00 AM - 5:00 PM",
-      "Wednesday": "9:00 AM - 5:00 PM",
-      "Thursday": "9:00 AM - 5:00 PM",
-      "Friday": "9:00 AM - 5:00 PM",
-      "Saturday": "10:00 AM - 3:00 PM",
-      "Sunday": "Closed"
+    {
+      "title": "Burgers & Dogs",
+      "description": "Juicy burgers, loaded hot dogs, and classic American grill favorites cooked fresh to order.",
+      "icon": "Flame"
     },
-    "mapEmbedQuery": "123+Main+St+City+ST"
+    {
+      "title": "Sandwiches & Wraps",
+      "description": "Club sandwiches, chicken wraps, BLTs, and grab-and-go options for hikers and golfers.",
+      "icon": "Sandwich"
+    },
+    {
+      "title": "Cold Drinks & Beer",
+      "description": "Ice cold sodas, lemonade, iced tea, and a selection of craft and domestic beers on tap.",
+      "icon": "GlassWater"
+    },
+    {
+      "title": "Breakfast & Brunch",
+      "description": "Early morning breakfast plates, egg sandwiches, and coffee to fuel your park adventure.",
+      "icon": "Coffee"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Jessica T.",
+      "text": "Perfect spot after a hike. Great burgers, cold beer, and the patio has an amazing view of the park.",
+      "rating": 5
+    },
+    {
+      "name": "Mark W.",
+      "text": "Love this place. Casual, affordable, and the staff is always super friendly. A hidden gem in Griffith Park.",
+      "rating": 5
+    },
+    {
+      "name": "Laura K.",
+      "text": "We come here after every round of golf. The food is solid, the prices are fair, and the vibe is unbeatable.",
+      "rating": 5
+    },
+    {
+      "name": "David R.",
+      "text": "The Clubhouse is an LA institution. Nothing fancy, just good food in a beautiful setting.",
+      "rating": 5
+    },
+    {
+      "name": "Sarah M.",
+      "text": "Great breakfast stop before hitting the trails. The egg sandwich and coffee are perfect hiking fuel.",
+      "rating": 5
+    }
+  ],
+  "gallery": {
+    "heading": "At the Clubhouse",
+    "images": [
+      {
+        "src": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoMG93uvWHL4I9nQkZt06bi1v4ST80gEu5BiPfYCMR4huaDdyJN8rLTYEiVQOvSiyl92M0e5MoMm6IXg7tpwdRlb25fEFJ_TgA88h-OJIJ7-cq6YADzijIWUNvM80Qq_IPLCI9DoA=w408-h307-k-no",
+        "alt": "Griffith Park Clubhouse"
+      }
+    ]
+  },
+  "contact": {
+    "address": "5500 Griffith Park Dr, Los Angeles, CA 90027",
+    "phone": "(323) 661-7212",
+    "email": "info@griffithparkclubhouse.com",
+    "hours": {
+      "Monday": "7:00 AM - 5:00 PM",
+      "Tuesday": "7:00 AM - 5:00 PM",
+      "Wednesday": "7:00 AM - 5:00 PM",
+      "Thursday": "7:00 AM - 5:00 PM",
+      "Friday": "7:00 AM - 5:00 PM",
+      "Saturday": "7:00 AM - 5:00 PM",
+      "Sunday": "7:00 AM - 5:00 PM"
+    },
+    "mapEmbedQuery": "Griffith Park Clubhouse 5500 Griffith Park Dr Los Angeles CA 90027"
   },
   "seo": {
-    "title": "Sample Business | City, ST",
-    "description": "Sample Business in City, ST. Professional services you can trust.",
-    "keywords": ["sample business", "city ST", "professional services"]
+    "title": "Griffith Park Clubhouse | Casual Dining & Drinks in Griffith Park LA",
+    "description": "Burgers, sandwiches, and cold drinks inside Griffith Park. 80 reviews, 4.4 stars. Open 7 AM to 5 PM daily.",
+    "keywords": [
+      "Griffith Park restaurant",
+      "food Griffith Park",
+      "Griffith Park Clubhouse",
+      "dining Los Angeles",
+      "burgers near Griffith Park"
+    ]
   },
   "theme": {
-    "primaryColor": "#0a0a0a",
-    "accentColor": "#c8a97e",
-    "fontFamily": "modern"
+    "primaryColor": "#f5f5f0",
+    "accentColor": "#166534",
+    "fontFamily": "friendly"
   }
 }
